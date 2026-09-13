@@ -1,0 +1,22 @@
+order_id,order_date,order_time,customer_id,vehicle_year,vehicle_make,vehicle_model,job_description,service_category,labor_charge,labor_hours,trip_fee,part_cost,part_price,total_price,payment_method,is_paid,recorded_contribution,part_cost_recorded
+ORD-0001,2026-01-05,11:00 AM,CUST-005,,Bmw,X2,rear brake pads,Brakes,50.0,,,166.43,170.0,220.0,Unknown,False,-166.43,True
+ORD-0002,2026-01-09,3:30 PM,CUST-005,,Bmw,X2,"front brake pads, wiper blades",Glass / Mirror / Body,50.0,,,16.99,30.0,80.0,Unknown,False,-16.99,True
+ORD-0003,2026-01-11,8:00 PM,CUST-010,2019.0,Tiguan,,rear brake pads,Brakes,50.0,,,32.06,50.0,100.0,Cash,True,67.94,True
+ORD-0004,2026-01-12,4:00 PM,CUST-007,,Prius,,front brake pads,Brakes,50.0,,,,,50.0,Cash,True,50.0,False
+ORD-0005,2026-01-13,2:40 PM,CUST-013,2023.0,Bmw,M440,rear brake pads,Brakes,70.0,,,46.77,80.0,150.0,Cash,True,103.22999999999999,True
+ORD-0006,2026-01-16,10:00 AM,CUST-003,2021.0,Benz,Metris,front and rear brake pads   check engine light,Diagnostic,210.0,,,85.04,190.0,400.0,Cash,True,314.96,True
+ORD-0007,2026-01-17,8:00 PM,CUST-012,2022.0,430I,M Sport,rear brake pads,Brakes,110.0,,,0.0,30.0,140.0,Cash,True,140.0,True
+ORD-0008,2026-01-18,10:00 AM,CUST-014,2020.0,X7,M50I,check engine light,Diagnostic,0.0,,,0.0,0.0,0.0,Unknown,False,0.0,True
+ORD-0009,2026-01-18,12:00 AM,CUST-002,2019.0,Mini,Cooper Countryman S,front and rear pads and rotors.,Brakes,330.0,,,0.0,550.0,880.0,Unknown,False,0.0,True
+ORD-0010,2026-01-18,4:00 PM,CUST-002,2019.0,Mini,Cooper Countryman S,后窗胶条,Glass / Mirror / Body,30.0,,,9.79,20.0,50.0,Unknown,False,-9.79,True
+ORD-0011,2026-01-18,2:00 PM,CUST-003,2021.0,Benz,Metris,front or rear brake pads   check engine light,Diagnostic,100.0,,,80.11,200.0,300.0,Paid - Method Unknown,True,219.89,True
+ORD-0012,2026-01-19,2:30 PM,CUST-013,2023.0,Bmw,M440,rear rotor,Brakes,100.0,,,138.22,200.0,300.0,Unknown,False,-138.22,True
+ORD-0013,2026-01-20,10:00 AM,CUST-001,,Honda,Civic,pad and rotor,Brakes,170.0,,,,,170.0,Cash,True,170.0,False
+ORD-0014,2026-01-23,10:00 AM,CUST-004,2022.0,Odessy,Ex L,front driver sway bar link,Suspension / Steering,115.0,,,32.91,60.0,175.0,Zelle,True,142.09,True
+ORD-0015,2026-01-23,11:00 AM,CUST-009,2013.0,Hongda,Accord,front brake pads and brake fluid,Oil / Fluids,165.0,,,,,165.0,Zelle,True,165.0,False
+ORD-0016,2026-01-27,5:30 PM,CUST-008,2017.0,Honda,Crv,rear pad and rotor,Brakes,150.0,,,,,150.0,Cash,True,150.0,False
+ORD-0017,2026-01-29,6:30 PM,CUST-011,2021.0,M440,Xdrive,rear pads,Brakes,110.0,,,36.53,80.0,190.0,Unknown,False,-36.53,True
+ORD-0018,2026-02-02,6:30 PM,CUST-011,2021.0,M440,Xdrive,front and rear rotors,Brakes,200.0,,,406.83,500.0,700.0,Unknown,False,-406.83,True
+ORD-0019,2026-02-02,2:30 PM,,,Nx300,,pads installation,Brakes,70.0,,,,,70.0,Unknown,False,0.0,False
+ORD-0020,2026-02-04,10:30 AM,CUST-006,2023.0,Prius,,front and rear pads,Brakes,100.0,,,69.82,60.0,160.0,Unknown,False,-69.82,True
+ORD-0021,2026-02-04,12:30 AM,CUST-003,2021.0,Benz,Metris,spark plug and igintion coil,Ignition / Engine,300.0,,,114.1,200.0,500.0,Paid - Method Unknown,True,385.9,True
